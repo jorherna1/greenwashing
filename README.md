@@ -18,7 +18,7 @@ If increasing a firm's ESG deficiency leads to consistently improved portfolio p
 
 ## Files
 
-- `Greenwashing Research Paper.ipynb` — main research notebook.
+- `greenwashing-detection.ipynb` — main research notebook.
 - `Greenwashing ESG Scores.xlsx` — ESG score data.
 - `Greenwashing Stock Prices.xlsx` — stock price data.
 
